@@ -25,7 +25,7 @@ Una vez ingresados los datos, se muestran en pantalla de la siguiente forma:
 1. Clona el repositorio:
 
 ```
-git clone <URL-del-repositorio>
+git clone <https://github.com/Alexis217/ConsoleUserRegistry.git>
 ```
 
 2. Ejecuta el archivo deseado:
